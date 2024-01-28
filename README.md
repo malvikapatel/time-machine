@@ -1,4 +1,4 @@
-#Time Machine
+# Time Machine
 
 ## Inspiration
 Have you ever wanted to have a face to face conversation with your past self? 
